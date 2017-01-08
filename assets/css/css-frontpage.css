@@ -1,0 +1,85 @@
+/* css only for the frontpage */
+
+.front-header {
+	height: 60px;
+	padding: 25px;
+	color: white;
+}
+
+.front-header h1 {
+	font-size: 35px;
+}
+
+.login-float {
+	float: left;
+	margin-right: 15px;
+}
+
+.login-position {
+	position: relative;
+	top: 10px;
+}
+
+.btn-login {
+	background-color: #acf;
+	padding: 5px 15px 5px 15px;
+}
+
+
+.taglines {
+	float: left;
+	margin-top: 150px;
+	width: 400px;
+}
+
+.tagline-h1 {
+	margin-bottom: 25px;
+}
+
+.tagline-h1 h1 {
+	font-size: 30px;
+}
+
+.tagline-bulletpoints {
+	padding-left: 35px;
+}
+
+.tagline-bulletpoints ul li {
+	list-style-type: circle;
+	margin-bottom: 10px;
+	font-size: 18px;
+}
+
+.sign-up {
+	width: 600px;
+	float: right;
+	padding-top: 50px;
+}
+
+.sign-up form h1 {
+	font-size: 35px;
+	padding: 15px;
+}
+
+.sign-up form h2 {
+	font-size: 25px;
+	padding: 5px;
+}
+
+.sign-up form input, select {
+	padding: 5px;
+	margin-bottom: 10px;
+}
+
+.half-line {
+	width: 280px;
+}
+.complete-line {
+	width: 580px;
+}
+
+.btn-submit {
+	color: white;
+	background-color: #2a1;
+	width: 580px;
+}
